@@ -1,0 +1,36 @@
+
+
+#all{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+#all div{
+    width: 30vw;
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    flex-direction: column;
+    text-align: center;
+    border: 3px solid orange;
+    padding: 30px;
+}
+div a{
+    color: white;
+    text-decoration: none;
+}
+
+.poderClique:hover{
+    transform: scale(1.1);
+}
+#all div img{
+    width: 80%;  
+}
+
+#nomecla{
+    width: 100%;
+    text-align: center;
+    margin: 30px;
+}
