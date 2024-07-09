@@ -23,8 +23,8 @@ header div{
 }
 
 header img{
-    margin: 10px auto;
-    height: 50%;
+    margin: 10px;
+    height: 10%;
     grid-area: 1 / 1 / 2 / 2;
 }
 
