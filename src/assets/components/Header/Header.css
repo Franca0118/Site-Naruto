@@ -20,7 +20,7 @@ header img{
 }
 
 header ul{
-    width: 50%;
+    width: 75%;
     display: flex;
     justify-content: space-between;
     margin: 35px;
