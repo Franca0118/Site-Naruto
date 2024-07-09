@@ -3,7 +3,7 @@ import './Header.css'
 function Header() {
     return (
         <header>
-            <a href="/"><img src="../img/logo.png" alt="" /></a>
+            <a href="/"><img src="../img/Logo.png"/></a>
             <ul>
                 <li><a href="/Clans">Clas</a></li>
                 <li><a href="/Poderes">Poder</a></li>
